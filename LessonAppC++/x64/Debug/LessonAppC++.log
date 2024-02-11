@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (LessonAppC.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  LessonAppC++.cpp
+C:\Users\geniy\source\repos\LessonAppC++\LessonAppC++\LessonAppC++.cpp(153,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\geniy\source\repos\LessonAppC++\LessonAppC++\LessonAppC++.cpp(154,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\geniy\source\repos\LessonAppC++\LessonAppC++\LessonAppC++.cpp(155,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\geniy\source\repos\LessonAppC++\LessonAppC++\LessonAppC++.cpp(188,54): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\geniy\source\repos\LessonAppC++\LessonAppC++\LessonAppC++.cpp(189,54): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\geniy\source\repos\LessonAppC++\LessonAppC++\LessonAppC++.cpp(151,8): warning C4101: input: неиспользованная локальная переменная
+C:\Users\geniy\source\repos\LessonAppC++\LessonAppC++\LessonAppC++.cpp(149,7): warning C4101: arr: неиспользованная локальная переменная
+  LessonAppC++.vcxproj -> C:\Users\geniy\source\repos\LessonAppC++\x64\Debug\LessonAppC++.exe
